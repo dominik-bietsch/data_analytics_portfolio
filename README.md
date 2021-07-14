@@ -1,2 +1,2 @@
 # data_analytics_portfolio
-Showcase of Analytics Skills Dominik Bietsch
+Short SQL showcase
